@@ -1,7 +1,7 @@
-# DSL-Demo-f2027 - cohort control repo
+# hertie-dsl-demo-f2027 - cohort control repo
 
-This is the **`.github` repo** for the `DSL-Demo-f2027` cohort org. It holds this cohort's configuration
-and the auto-generated student-facing org page - **faculty & instructors / FAs delivering the course rarely need to touch it directly.**
+This is the **`.github` repo** for the `hertie-dsl-demo-f2027` cohort org. It holds this cohort's configuration
+and the auto-generated student-facing org page - **faculty, instructors and faculty assistants (FAs) delivering the course rarely need to touch it directly.**
 
 - The **faculty & instructors action buttons** (Release, Grade, Sync ...) live in the **parent course org's**
   `.github` **Actions** tab, not here. This repo has no `dsl-course.yml` of its own - all of
@@ -11,6 +11,6 @@ and the auto-generated student-facing org page - **faculty & instructors / FAs d
 - Course identity (name/code) and `course_admins` are inherited from the parent course org,
   kept in sync by **Sync membership**.
 - `profile/README.md` - the student-facing org landing page (auto-generated; don't hand-edit).
-- Students join via the **welcome** repo's "Join" issue; the roster lives in **classroom-config**.
+- Students join via the **welcome** repo's "Join course" issue; the roster lives in **classroom-config**.
 
-Built and kept in sync by the [DSL teaching toolkit](https://github.com/hertie-data-science-lab/dsl-teaching-course-setup).
+Built and kept in sync by the [DSL teaching toolkit](https://github.com/hertie-data-science-lab/dsl-teaching-toolkit).
