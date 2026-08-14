@@ -2,5 +2,5 @@
 # classroom-config dispatchers (dispatch-sync / dispatch-sync-site) to find where
 # to fire Sync membership / Sync site. Identity + schedule live elsewhere (the
 # course org's dsl-course.yml and this cohort's classroom-config/schedule.yml).
-course: DSL-Demo-Course-E1234
-org: DSL-Demo-f2027
+course: hertie-dsl-demo-course-e1234
+org: hertie-dsl-demo-f2027
